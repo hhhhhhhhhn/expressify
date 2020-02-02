@@ -1,0 +1,27 @@
+{
+  "name": "expressify",
+  "version": "1.0.0",
+  "description": "Make an express API for your node application with two lines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oekshido/expressify.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "function"
+  ],
+  "author": "oekshido",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oekshido/expressify/issues"
+  },
+  "homepage": "https://github.com/oekshido/expressify#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
