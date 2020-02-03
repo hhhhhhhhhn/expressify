@@ -1,5 +1,5 @@
 {
-  "name": "expressify",
+  "name": "expressifier",
   "version": "1.0.0",
   "description": "Make an express API for your node application with two lines.",
   "main": "index.js",
